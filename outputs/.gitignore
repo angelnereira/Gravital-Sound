@@ -1,0 +1,6 @@
+# No ignorar nada — los binarios son rastreados intencionalmente.
+# git LFS se activaría aquí si el repo crece demasiado:
+#   git lfs track "outputs/**/*.apk"
+#   git lfs track "outputs/**/*.exe"
+#   git lfs track "outputs/linux/**/*"
+#   git lfs track "outputs/macos/**/*"
