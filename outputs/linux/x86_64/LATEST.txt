@@ -1,1 +1,1 @@
-(pending first CI build)
+gs-v0.1.0-alpha.1-9ce7bb5-linux-x86_64
